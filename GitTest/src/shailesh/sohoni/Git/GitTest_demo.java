@@ -4,7 +4,7 @@ public class GitTest_demo {
 	
 	public  static void main()
 	{
-		System.out.println("shailesh sohoni hellow");
+		System.out.println("I am doing fine");
 		
 	}
 
